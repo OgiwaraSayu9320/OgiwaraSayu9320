@@ -14,6 +14,7 @@
       <p style="color: #666;">👉 <a target="_blank" style="color: #007bff; text-decoration: none;" href="https://www.linkedin.com/in/sayu-ogiwara-522250353">LinkedIn</a></p>
       <p style="color: #666;">📧 Liên hệ: <a style="color: #007bff; text-decoration: none;" href="mailto:nguyentri9320@gmail.com">nguyentri9320@gmail.com</a></p>
       <p style="color: #666;">👉 Zalo: <a style="color: #007bff; text-decoration: none;" href="https://zalo.me/0988405821">0988405821</a></p>
+      <p style="color: #666;">👉 Facebook: <a style="color: #007bff; text-decoration: none;" href="https://www.facebook.com/profile.php?id=100011484529128">Nhựt Trí Website Developer</a></p>
     </div>
 </body>
 </html>
